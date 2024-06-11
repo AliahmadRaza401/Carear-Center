@@ -201,7 +201,7 @@ class CustomTextField extends StatelessWidget {
           //   ),
           // ),
           focusedErrorBorder: UnderlineInputBorder(
-            borderSide: BorderSide(
+            borderSide: const BorderSide(
               color: Colors.blue,
               width: .5,
               strokeAlign: BorderSide.strokeAlignInside,
